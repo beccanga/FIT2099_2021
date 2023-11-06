@@ -2,9 +2,11 @@
 FIT2099 S2 2021 Object Oriented Programming Assignment
 
 Assignment Team:
-Sean Leong, \n
-Low Chin Boon \n 
-Rebecca Nga \n
+Sean Leong,
+
+Low Chin Boon,
+
+Rebecca Nga
 
 Design Related Files Added on Assignment 1 Submission
 1. [MA_Lab2Team4_Assignment1_UML_Design_Rationale](design-docs/MA_Lab2Team4_Assignment1_UML_Design_Rationale.pdf)
